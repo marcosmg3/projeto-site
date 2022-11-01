@@ -16,3 +16,26 @@ main {
     padding: 10px;
     box-shadow: 3px 3px 3px rgba(0, 0, 0, 0.534);
 }
+h1 {
+    font-size: 3em;
+    color: blue;
+}
+
+h2 {
+    font-size: 2em;
+    color: blue;
+}
+
+img.lado {
+    float: right;
+    width: 100px;
+}
+a {
+    text-decoration: none;
+    font-weight: bold;
+    color: rgb(75, 75, 172);
+}
+a:houver {
+    text-decoration: underline;
+    color: rgb(83, 83, 247);
+}
